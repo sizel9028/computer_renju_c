@@ -117,6 +117,7 @@ endfunction
 function bool isneed_computer (int dir,coordinate my_locaton)
    same as isneed_player
 endfunction
-         
-         
+
+// i remember that more logic in here to calculate better case to attack or defend
+// but i cant find it, because my code is hardcoding so i cant find it.
    
